@@ -12,7 +12,7 @@ Here you can define in the object your profile
 }, 
 ```
 
-To use the this script you can call the following command in your powershell or command line:
+To use the this script you can call the following command in your powershell:
 
 > .\gitProfileSwitch-script.ps1 -profilekind "work"
 
