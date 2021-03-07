@@ -1,0 +1,14 @@
+{
+    "profiles": [
+        {
+            "profilekind" : "private",
+            "name" : "name of user",
+            "mail" : "email-address"
+        },
+        {
+            "profilekind" : "work",
+            "name" : "name of user",
+            "mail" : "email-address"
+        }
+    ]
+}
